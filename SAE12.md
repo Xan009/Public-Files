@@ -624,16 +624,16 @@ On peut aussi passer par l'interface graphique, une procédure plus simple et pl
 
 Ouvrez `Panneau de configuration`, tapez `Centre Réseau et partage` dans la zone de recherche.  
 
-![Panneau de configuration](Images/panneauconfig.png)  
+![Panneau de configuration](Images/panneauconfig.PNG)  
 
 Cliquez sur le lien `Modifier les paramètres de la carte`, faîtes ensuite un clique droit sur l'interface que vous utilisez pour sélectionner l'option `Propriétés`.
 
-![Centre Réseau et partage](Images/centrereseaupartage.png)  
-![Propriétés](Images/connexionsreseau.png)  
+![Centre Réseau et partage](Images/centrereseaupartage.PNG)  
+![Propriétés](Images/connexionsreseau.PNG)  
 
 Une nouvelle fenêtre s'ouvre. Dans celle-ci recherchez l'élément `Protocole Internet Version 4 (TCP/IPv4)`.
 
-![Protocole Internet Version 4 (TCP/IPv4)](Images/proprieteswifi.png)  
+![Protocole Internet Version 4 (TCP/IPv4)](Images/proprieteswifi.PNG)  
 
 Double cliquez ensuite sur cet élément pour faire apparaître une ultime fenêtre. Dans celle-ci cochez ou décochez les paramètres `Obtenir une adresse IP automatiquement` et `Obtenir les adresses des serveurs DNS automatiquement` pour activer ou désactiver le DHCP.
 
