@@ -100,3 +100,13 @@ Le CTO (« Chief Technical Officier ») vous demande en tant que technicien sup�
 
 
 Le schéma suivant résume les deux composantes de la SAE.
+
+``` mermaid
+     flowchart LR;
+        SAE12[SAE12]-->id1["Réaliser un réseau simple et communiquant entre les équipes"];
+        SAE12-->id3["Configurer et dépanner le réseau de son poste de travail Windows ou Linux"];
+        style SAE12 fill:#99ccff,stroke:#337,stroke-width:8px;
+        style id1 fill:#f9f,stroke:#337,stroke-width:2px;
+        style id3 fill:#f9f,stroke:#337,stroke-width:2px;
+        click SAE12 href "https://github.com/pushou/SAE12.git" "Lien vers le repo Git de la SAE12"
+```
