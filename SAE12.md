@@ -637,7 +637,7 @@ Une nouvelle fenêtre s'ouvre. Dans celle-ci recherchez l'élément `Protocole I
 
 Double cliquez ensuite sur cet élément pour faire apparaître une ultime fenêtre. Dans celle-ci cochez ou décochez les paramètres `Obtenir une adresse IP automatiquement` et `Obtenir les adresses des serveurs DNS automatiquement` pour activer ou désactiver le DHCP.
 
-![DHCP et DNS](Images/protocoleipv4.png)
+![DHCP et DNS](Images/protocoleipv4.PNG)
 
 <br />
 
