@@ -44,7 +44,7 @@ On attend maintenant que l'`OVA` soit téléchargé.
 <br />
 
 Une fois l'installation terminée il faut aller sur Virtual Box pour installer la machine virtuelle.  
-Il suffit ensuite de faire `Importer` dans les outils du logiciel et de choisir l'image que vous venez de télécharger.
+Il suffit ensuite de faire `Ajouter` dans les outils du logiciel et de choisir l'image que vous venez de télécharger.
 
 ![On importe la VM](Images/importvm.PNG)
 
